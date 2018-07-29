@@ -58,6 +58,6 @@ namespace MvcApplication1.Controllers
 
         public string CustomerId { get; set; }
         public string CustomerName { get; set; }
-		
+		public string CustomerAddress { get; set; }
     }
 }
